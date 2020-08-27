@@ -20,3 +20,4 @@ This script allows you to make your Illustrations theme compatible.
 ---------
 
 ### Video Tutorial
+![Run Batch Command](assets/tutorial.m4v)
