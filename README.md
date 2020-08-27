@@ -16,3 +16,8 @@ This script allows you to make your Illustrations theme compatible.
 ![Run Batch Command](assets/replace.png)
 
 ### Done!
+
+--------
+
+### Video Tutorial
+https://www.youtube.com/watch?v=9EsjlbrXGvA
