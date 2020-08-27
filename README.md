@@ -12,7 +12,7 @@ This script allows you to make your Illustrations theme compatible.
 ### 4. Place the svg you wish to make theme compatible in the repository folder you have downloaded (Mattermost Theme Replace).
 ![Place Image](assets/place.png)
 
-### 5. Run Batch Replacer command in VSCode
+### 5. Run Batch Replacer command in VSCode by going to the specific script file (replace.js or replace-css.js)
 ![Run Batch Command](assets/replace.png)
 
 ### Done!
