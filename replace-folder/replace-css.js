@@ -18,7 +18,7 @@ replace "fill="#F74343""
 with "fill='var(--dnd-indicator)'"
 
 replace "fill="#3D3C40""
-with "fill='var(--center-channel-text)'"
+with "fill='var(--center-channel-color)'"
 
 replace "fill="#FF8800""
 with "fill='var(--new-message-separator)'"
